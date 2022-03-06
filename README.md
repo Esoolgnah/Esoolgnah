@@ -1,5 +1,4 @@
 
-<br>
 <h3 align="center"> 👋 반갑습니다!</h3>
 <p align="center"> 프론트엔드 개발자 정재혁입니다. 🌱</p>
 <br>
@@ -17,8 +16,6 @@
 <br>
 <h3 align="center">✨ Contact ✨ </h3>
 
-
 <p align="center">
   <a target="_blank" href="mailto:nezcoreen@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
-<br>
