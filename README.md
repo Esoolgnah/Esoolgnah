@@ -1,12 +1,11 @@
 
 <h3 align="center"> 👋 안녕하세요!</h3>
-<p align="center"> 프론트엔드 웹 개발자 정재혁입니다. 🌱</p>
 
-<br>
+<p align="center"> 프론트엔드 웹 개발자 정재혁입니다. 🌱</p>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+<p align="center">Techs that I've used at least once</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;&nbsp;&nbsp;
@@ -27,6 +26,5 @@
   <a href="https://hangloose.oopy.io/"><img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black"></a>
 <p/>
 
-<br>
 
 
