@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="mailto:nezcoreen@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=nezcoreen@gmail.com"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://hangloose.oopy.io/"><img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black"></a>
+  <a href="https://www.notion.so/hangloose/Dev-Note-63816084d988443cac100eb4a8647480"><img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black"></a>
 <p/>
 
 
